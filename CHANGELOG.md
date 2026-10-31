@@ -2,6 +2,11 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.9.9 · 2026-10-31 · décima quinta revisão independente
+
+### Corrigido
+- Regra de reserva do TCU: a frase sobre prazo de espera e anterioridade tinha 29 palavras com a referência legal. Foi dividida em duas frases curtas, com a base legal (art. 349, § 2º) à parte. O conteúdo não mudou.
+
 ## 1.9.8 · 2026-10-31 · décima quarta revisão independente
 
 ### Corrigido
