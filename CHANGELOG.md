@@ -2,6 +2,12 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.9.4 · 2026-10-31 · décima revisão independente
+
+### Corrigido
+- Caso Maria: a versão 1.9.3 sugeria que virar microempresa no Simples obriga a pagar CBS e IBS pelo regime regular. Agora o texto diz que, dentro do Simples, ela poderia escolher esse regime (LC 214, art. 41, § 3º).
+- Frases longas na FAQ: a exceção do cashback virou lista (a 1.9.3 dizia tê-la dividido, mas só tinha acrescentado "Há uma exceção"); a condição orçamentária do limite do MEI e a regra da nota fiscal foram separadas em frases curtas, com a base legal à parte.
+
 ## 1.9.3 · 2026-10-31 · nona revisão independente
 
 ### Corrigido
