@@ -2,6 +2,13 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.9.7 · 2026-10-31 · décima terceira revisão independente
+
+### Corrigido
+- Regra de reserva do TCU: a 1.9.6 dizia "valem os cálculos do TCU até o Senado decidir", como se a decisão valesse na hora. Pelo art. 349, § 2º da LC 214, a alíquota do Senado começa a valer no segundo mês depois da fixação, respeitada a anterioridade anual. O texto agora diz "até a alíquota definida pelo Senado começar a valer". O prazo de 15/12 foi conferido: 31/10 (art. 349, § 1º, II) mais 45 dias de prorrogação (art. 353, § 2º; Decreto 12.955/2026, art. 590, § 2º).
+- Parágrafo dos prazos dividido em três (prazo do Senado, regra de reserva, projeção do IBS) e frase da FAQ encurtada.
+- Fontes: a notícia do Senado (27/10) passou para depois do TCU (28/10), respeitando a ordem por data.
+
 ## 1.9.6 · 2026-10-31 · décima segunda revisão independente
 
 ### Corrigido
