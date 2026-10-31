@@ -2,6 +2,18 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.9.2 · 2026-10-31 · oitava revisão independente
+
+### Corrigido
+- MEI, limite de faturamento: o site agora cita a Lei Complementar 238/2026 (lida na Câmara dos Deputados) e diz que o aumento (R$ 110 mil em 2027, R$ 140 mil em 2028) depende de a renúncia de receita estar prevista nas leis orçamentárias de 2027 a 2029 (art. 3º). O limite proporcional de R$ 6.750 por mês passou a dizer "em 2026" (em 2027 serão R$ 9.166,67).
+- MEI, tabela de 2027 a 2033: confirmado que a LC 238 não altera o Anexo XXIII da LC 214. A explicação virou lista e tem link para o anexo.
+- Caso Maria: não diz mais que "a guia não muda".
+- Nota fiscal do MEI: para consumidor, só se ele pedir (antes dizia "dispensada" sem exceção).
+- Simuladores: a ressalva "o cálculo supõe que as compras dão direito a crédito" vale também quando o MEI passou de 20% do limite e no saldo credor do Simples.
+- Remédios (FAQ): a farmácia de manipulação entra no desconto de 60% (art. 133); alíquota zero é outra hipótese (art. 146). A versão 1.9.1 dizia "regra própria", o que induzia ao erro.
+- Siglas e frases: LC explicada na primeira vez nas perguntas; frase longa da e-Financeira dividida.
+- Fontes: LC 238, Portal do Empreendedor (nota fiscal) e o PDF consolidado da LC 214 entraram no rodapé na ordem de data.
+
 ## 1.9.1 · 2026-10-31 · sétima revisão independente
 
 ### Corrigido
