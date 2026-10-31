@@ -2,6 +2,12 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.9.5 · 2026-10-31 · décima primeira revisão independente
+
+### Corrigido
+- Exemplo da camiseta: o texto dizia que "o governo recebe a mesma quantia no total", o que podia ser lido como garantia de que o imposto de cada produto fica igual. Agora separa as duas ideias: o crédito evita o acúmulo escondido, e a meta de arrecadar o mesmo valor vale para o conjunto da economia e orienta as alíquotas, sem garantir a mesma carga em cada produto (LC 214, art. 353).
+- Frase de abertura de "Como vai ficar" dividida (tinha 27 palavras).
+
 ## 1.9.4 · 2026-10-31 · décima revisão independente
 
 ### Corrigido
