@@ -2,6 +2,15 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.9.3 · 2026-10-31 · nona revisão independente
+
+### Corrigido
+- Nota fiscal do MEI: para consumidor, é obrigatória se ele pedir ou se o MEI enviar o produto a ele (venda pela internet ou por telefone). A 1.9.2 dizia "só se ele pedir", o que a fonte (Portal do Empreendedor) não sustenta.
+- Limite do MEI: a referência à LC 238 cita os arts. 1º, 2º e 10 (o limite de 2028 não vem do art. 2º). A condição do art. 3º foi reescrita sem "renúncia de receita": o aumento só vale se o orçamento de 2027 a 2029 já considerar o dinheiro que o governo deixa de arrecadar. Na FAQ, o limite proporcional virou lista (2026 e 2027).
+- Guia do MEI (FAQ): ICMS e ISS explicados na primeira frase, e o parágrafo foi dividido para ter menos números.
+- Remédios (FAQ): os arts. 133 e 146 têm link para a LC 214 consolidada.
+- Frases longas: caso Maria e cashback (FAQ) divididos.
+
 ## 1.9.2 · 2026-10-31 · oitava revisão independente
 
 ### Corrigido
