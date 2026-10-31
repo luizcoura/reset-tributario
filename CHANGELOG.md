@@ -2,6 +2,16 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.9.1 · 2026-10-31 · sétima revisão independente
+
+### Corrigido
+- MEI: a guia não troca ICMS e ISS por CBS e IBS de uma vez. Pelo Anexo XXIII da LC 214 (texto consolidado até a LC 227, lido no PDF da Fazenda de MG), em 2027 e 2028 a guia soma R$ 1 de CBS e IBS ao ICMS (R$ 1) e ao ISS (R$ 5); o ICMS e o ISS diminuem até 2032 e em 2033 restam R$ 3 de CBS e IBS. Não conferimos se a LC 238/2026 mudou essa tabela.
+- Simulador do MEI: o resultado diz "se a compra der direito a ele" e a mensagem avisa que o cálculo supõe que as compras informadas dão direito a crédito.
+- Simulador do consumidor: o rótulo agora é "Preço sem CBS e IBS" e a nota diz que o Imposto Seletivo já está no preço da etiqueta (antes sugeria somá-lo).
+- Remédios (FAQ): "em regra" 60% de desconto; alíquota zero para alguns itens e regra própria para farmácia de manipulação (arts. 133 e 146).
+- Siglas e frases: IVA explicada na primeira vez, IN escrita por extenso, frase de abertura mais curta, parágrafo do Pix na FAQ dividido em dois.
+- Fontes: IN 2.247/2025 e o PDF consolidado da LC 214 entraram na lista do rodapé.
+
 ## 1.9.0 · 2026-10-31 · sexta revisão independente, com fontes primárias
 
 ### Corrigido
