@@ -2,6 +2,13 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.9.6 · 2026-10-31 · décima segunda revisão independente
+
+### Corrigido
+- Prazo do Senado para a CBS de 2027: o texto deixou de atribuir "à imprensa" e passou a citar a notícia do Senado de 27/10/2026 (até 15 de dezembro). A regra de fallback agora segue a lei: se a decisão passar de 22 de dezembro, valem os cálculos do TCU até o Senado decidir (LC 214, art. 349, § 2º). Antes o site dizia só "se não decidir, vale o cálculo do TCU".
+- Exemplo da camiseta: "LC" explicada na primeira ocorrência, e o art. 353 tem link para o texto oficial.
+- Fontes: a notícia da Agência Senado entrou no rodapé.
+
 ## 1.9.5 · 2026-10-31 · décima primeira revisão independente
 
 ### Corrigido
