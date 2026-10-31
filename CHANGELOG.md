@@ -2,6 +2,12 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.9.8 · 2026-10-31 · décima quarta revisão independente
+
+### Corrigido
+- Regra de reserva do TCU: a 1.9.7 dizia que a alíquota do Senado "vale a partir do segundo mês depois da decisão", omitindo a anterioridade anual (art. 349, § 2º, II). O texto agora diz que ela passa por um prazo de espera e pela regra de que mudanças só valem no ano seguinte à publicação, sem prometer data exata.
+- FAQ: "a decisão dele sai até 15 de dezembro" virou "ele tem até 15 de dezembro para decidir", porque a fonte fala em prazo, não em garantia de decisão.
+
 ## 1.9.7 · 2026-10-31 · décima terceira revisão independente
 
 ### Corrigido
