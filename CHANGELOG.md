@@ -2,6 +2,14 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.10.1 · 2026-11-06 · og:description
+
+### Adicionado
+- Dados estruturados `FAQPage` (JSON-LD) em `perguntas.html`, com as 19 perguntas e respostas em texto simples, espelhando o texto visível (inclusive a do Imposto Seletivo com a condição da data e as loterias e "bets"). O bloco `WebPage` com `dateModified` foi mantido, e o `FAQPage` é um script `ld+json` separado.
+
+### Alterado
+- A `og:description` do `index.html` cita o Imposto Seletivo "previsto para 2027", sem afirmar mais do que o corpo da página (a data depende de a MP virar lei). A `twitter:description` não menciona o assunto e segue coerente. `og-image.png` sem mudança.
+
 ## 1.10.0 · 2026-11-06 · Imposto Seletivo de 2027
 
 ### Adicionado
