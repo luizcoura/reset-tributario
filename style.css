@@ -33,6 +33,7 @@ h4{font-family:var(--titulo);font-size:1.1rem;font-weight:700;line-height:1.2;ma
 p{margin:0 0 1rem}
 section{padding:4.5rem 0 1rem}
 .lead{font-size:1.3rem;color:var(--tinta-suave)}
+.conferido{font-size:.9rem;line-height:1.4;color:var(--tinta-suave);margin:.4rem 0 .8rem}
 
 /* topo */
 header.topo{padding:3rem 0 2rem}

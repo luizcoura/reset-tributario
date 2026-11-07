@@ -2,6 +2,14 @@
 
 Todas as mudanças relevantes do projeto. Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O site tem versão, mostrada no rodapé das duas páginas. Regra: a primeira parte muda numa reestruturação grande; a segunda, em recurso novo ou revisão de conteúdo; a terceira, em correção pontual. A 1.0.0 reúne tudo o que foi feito antes de a numeração existir.
 
+## 1.10.2 · 2026-11-06 · data de conferência no topo
+
+### Adicionado
+- Linha "Conteúdo conferido em 6 de novembro de 2026" (com `<time>`) logo abaixo do título das duas páginas, com o link "Ver fontes" para a lista de fontes do rodapé (`index.html#fontes`, id nova). O número da versão continua só no rodapé.
+
+### Alterado
+- `AGENTS.md`: a regra "Data de conferência" lista todos os lugares que mudam juntos.
+
 ## 1.10.1 · 2026-11-06 · og:description
 
 ### Adicionado
